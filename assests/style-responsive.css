@@ -1,0 +1,150 @@
+@media (max-width: 1280px) {
+   
+    .conteudo {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    textarea {
+        
+        width: 350px;
+        height: 300px;
+    }
+    .title-conteudo {
+        margin-top: 5%;
+        margin-left: 25%;
+        text-align: center;
+        border-radius: 1rem;
+        color: rgb(126, 238, 62);
+        width: 600px;
+        height: 10%%;
+        background-color: #000;
+        border: #fff solid 1px;
+        opacity: 70%;
+    
+    }
+    .title-conteudo h1 {
+        padding: 1rem;
+        opacity: 100%;
+        font-size: 1.5rem;
+        }
+    
+}
+@media (max-width: 800px) {
+   
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    textarea {
+        
+        width: 550px;
+        height: 350px;
+    }
+    .title-conteudo {
+        margin-top: 5%;
+        margin-left: 3.5rem;
+        text-align: center;
+        border-radius: 1rem;
+        color: rgb(126, 238, 62);
+        width: 85%;
+        height: 10%;
+        background-color: #000;
+        border: #fff solid 1px;
+        opacity: 70%;
+    
+    }
+    .title-conteudo h1 {
+        padding: 1rem;
+        opacity: 100%;
+        font-size: 1.5rem;
+        }
+    
+}
+@media (max-width: 390px) {
+   
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    textarea {
+        width: 86%;
+        height: 150px;
+        font-size: 1.5rem;
+        padding: 1rem;
+
+    }
+    .title-conteudo {
+        margin-top: 5%;
+        margin-left: 1.5rem;
+        text-align: center;
+        border-radius: 1rem;
+        color: rgb(126, 238, 62);
+        width: 85%;
+        height: 10%;
+        background-color: #000;
+        border: #fff solid 1px;
+        opacity: 70%;
+    
+    }
+    .title-conteudo h1 {
+        padding: 0.5rem;
+        opacity: 100%;
+        font-size: 1.5rem;
+        }
+    input {
+            background-color: rgb(52, 52, 59);
+            border: #fff solid 1px;
+            color: rgb(126, 238, 62);
+            border-radius: 1rem;
+            padding: 0.5rem;
+            font-size: 1rem;
+            }
+    
+    
+}
+@media (max-width: 360px) {
+   
+    .conteudo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    textarea {
+        width: 86%;
+        height: 150px;
+        font-size: 1.5rem;
+        padding: 1rem;
+
+    }
+    .title-conteudo {
+        margin-top: 5%;
+        margin-left: 1.5rem;
+        text-align: center;
+        border-radius: 1rem;
+        color: rgb(126, 238, 62);
+        width: 85%;
+        height: 10%;
+        background-color: #000;
+        border: #fff solid 1px;
+        opacity: 70%;
+    
+    }
+    .title-conteudo h1 {
+        padding: 0.5rem;
+        opacity: 100%;
+        font-size: 1.5rem;
+        }
+    input {
+            background-color: rgb(52, 52, 59);
+            border: #fff solid 1px;
+            color: rgb(126, 238, 62);
+            border-radius: 1rem;
+            padding: 0.5rem;
+            font-size: 1rem;
+            }
+    
+    
+}
